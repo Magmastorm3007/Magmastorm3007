@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashwat ⭐</h1>
 <h3 align="center">I'm a fervent Full Stack Web and Game Developer from India, driven by a relentless pursuit of excellence and a passion for crafting immersive digital experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magmastorm3007&label=Profile%20views&color=0e75b6&style=flat" alt="magmastorm3007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magmastorm3007" alt="magmastorm3007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shashwa15427024" target="blank"><img src="https://img.shields.io/twitter/follow/shashwa15427024?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Ninja Araki 2.0](https://github.com/Magmastorm3007/ninjaAraki2.0)
 
@@ -21,12 +19,18 @@
 
 - ⚡ Fun fact **I love to play classical guitar, draw and animate in my leisure time.**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shashwa15427024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashwa15427024" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-nath-077128168?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-nath-077128168?originalsubdomain=in" height="30" width="40" /></a>
 <a href="https://hashnode.com/@magmastorm3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@magmastorm3007" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/magmastorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="magmastorm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/user5454z/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user5454z/" height="30" width="40" /></a>
+<a href="/https://magmastorm.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://magmastorm.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magmastorm3007&show_icons=true&locale=en" alt="magmastorm3007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magmastorm3007&" alt="magmastorm3007" /></p>
+
