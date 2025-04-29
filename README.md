@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat ⭐</h1>
-<h3 align="center">I'm a fervent Full Stack Web and Game Developer from India, driven by a relentless pursuit of excellence and a passion for crafting immersive digital experiences</h3>
+<h3 align="center">I'm a  Full Stack Web and Game Developer from India, driven by a relentless pursuit of excellence and a passion for crafting immersive digital experiences.Working professional in software and data engineering.</h3>
 <img align="right" width="400" src="Screencast from 2023-10-25 22-13-39.gif">
 <p align="left"> <a href="https://twitter.com/shashwa15427024" target="blank"><img src="https://img.shields.io/twitter/follow/shashwa15427024?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://magmastorm.hashnode.dev/](https://magmastorm.hashnode.dev/)
 
-- 💬 Ask me about **React, Express, ThreeJs, Unity**
+- 💬 Ask me about **React,Express,Node,ThreeJs, Unity,PySpark**
 
 - 📫 How to reach me **shashwatnath30@gmail.com**
 
